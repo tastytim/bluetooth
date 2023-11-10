@@ -4,7 +4,7 @@ import (
 	"machine"
 	"time"
 
-	"tinygo.org/x/bluetooth"
+	"github.com/tastytim/bluetooth"
 )
 
 var adapter = bluetooth.DefaultAdapter

@@ -4,7 +4,7 @@ package main
 // details.
 
 import (
-	"tinygo.org/x/bluetooth"
+	"github.com/tastytim/bluetooth"
 	"tinygo.org/x/bluetooth/rawterm"
 )
 

@@ -22,7 +22,7 @@ This example shows a central that scans for peripheral devices and then displays
 package main
 
 import (
-	"tinygo.org/x/bluetooth"
+	"github.com/tastytim/bluetooth"
 )
 
 var adapter = bluetooth.DefaultAdapter
@@ -58,7 +58,7 @@ package main
 import (
 	"time"
 
-	"tinygo.org/x/bluetooth"
+	"github.com/tastytim/bluetooth"
 )
 
 var adapter = bluetooth.DefaultAdapter
