@@ -1,4 +1,4 @@
-module tinygo.org/x/bluetooth
+module github.com/tastytim/bluetooth
 
 go 1.18
 
