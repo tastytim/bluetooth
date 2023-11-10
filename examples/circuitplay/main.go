@@ -8,8 +8,8 @@ import (
 	"machine"
 	"time"
 
-	"tinygo.org/x/bluetooth"
-	"tinygo.org/x/drivers/ws2812"
+	"github.com/tastytim/bluetooth"
+	"github.com/tastytim/bluetooth/drivers/ws2812"
 )
 
 var adapter = bluetooth.DefaultAdapter
